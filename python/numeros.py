@@ -1,0 +1,8 @@
+print("==============CALCULADORA JUANITO================")
+a = input("ingresa el primer numero: ")
+b = input("ingresa el segundo numero: ") 
+a = int(a)
+b = int(b)
+print("la multiplicacion es: ",a*b)
+print("la division es: ",a/b)
+print("==========GRACIAS PROFEE============")
